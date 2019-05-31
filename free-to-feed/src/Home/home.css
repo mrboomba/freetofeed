@@ -1,0 +1,23 @@
+@media all  {
+    .Home {
+      padding: 60px 0;
+      padding-top: '10px';
+    }
+  
+    .Home form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  .Home-component {
+    /* The image used */
+    background-image: url(./bg.jpg);
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
